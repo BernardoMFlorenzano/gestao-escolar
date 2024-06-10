@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto é um trabalho final para o curso de Engenharia de Software 1. O objetivo é desenvolver um sistema de gestão escolar.
+O objetivo é desenvolver um sistema de gestão escolar.
 
 ## Funcionalidades
 

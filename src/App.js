@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App container mx-auto p-5">
+    <div className="App container mx-auto p-4">
       <h1 className="text-2xl font-bold mb-4">Gestão Escolar</h1>
       <div className="mb-8">
         <h2 className="text-xl font-semibold mb-2">Manter Alunos</h2>

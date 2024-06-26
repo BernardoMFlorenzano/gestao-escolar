@@ -31,6 +31,7 @@ const ProfessorList = () => {
 
   return (
     <div>
+      <h2 className="font-bold text-2xl mb-3">Manter Professor</h2>
       <button
         onClick={handleOpenModal}
         className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-700"
